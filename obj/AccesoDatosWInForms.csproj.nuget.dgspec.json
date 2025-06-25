@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omg02\\source\\repos\\Conexi-nBDd-C-MySQL\\AccesoDatosWInForms.csproj": {}
+    "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\AccesoDatosWInForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omg02\\source\\repos\\Conexi-nBDd-C-MySQL\\AccesoDatosWInForms.csproj": {
+    "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\AccesoDatosWInForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omg02\\source\\repos\\Conexi-nBDd-C-MySQL\\AccesoDatosWInForms.csproj",
+        "projectUniqueName": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\AccesoDatosWInForms.csproj",
         "projectName": "AccesoDatosWInForms",
-        "projectPath": "C:\\Users\\omg02\\source\\repos\\Conexi-nBDd-C-MySQL\\AccesoDatosWInForms.csproj",
-        "packagesPath": "C:\\Users\\omg02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omg02\\Source\\Repos\\Conexi-nBDd-C-MySQL\\obj\\",
+        "projectPath": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\AccesoDatosWInForms.csproj",
+        "packagesPath": "C:\\Users\\LMC-III-Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\omg02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LMC-III-Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,12 +45,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.3.0, )"
@@ -74,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

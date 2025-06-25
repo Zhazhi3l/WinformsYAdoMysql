@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccesoDatosWInForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b20efa5daa51acbb20ecd906b22af99d6e4c49d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e09e58b538a09f5239f04bfb3b015596a03df6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccesoDatosWInForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccesoDatosWInForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

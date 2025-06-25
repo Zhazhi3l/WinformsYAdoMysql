@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\windowsado\\llenarocancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:windowsado\\llenarocancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\windowsado\\llenarocancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:windowsado\\llenarocancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\windowsado\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:windowsado\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\windowsado\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:windowsado\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|c:\\users\\lmc-iii-alumno\\source\\repos\\conexionbdmysql\\windowsado\\navegacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{565B546E-77EE-4D42-B563-C24EBC763F0A}|AccesoDatosWInForms.csproj|solutionrelative:windowsado\\navegacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LlenarOCancelar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\Source\\Repos\\ConexionBDMYSQL\\WindowsADO\\LlenarOCancelar.cs",
+              "RelativeDocumentMoniker": "WindowsADO\\LlenarOCancelar.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\Source\\Repos\\ConexionBDMYSQL\\WindowsADO\\LlenarOCancelar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsADO\\LlenarOCancelar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:11:26.361Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LlenarOCancelar.cs",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\Source\\Repos\\ConexionBDMYSQL\\WindowsADO\\LlenarOCancelar.cs",
+              "RelativeDocumentMoniker": "WindowsADO\\LlenarOCancelar.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\Source\\Repos\\ConexionBDMYSQL\\WindowsADO\\LlenarOCancelar.cs",
+              "RelativeToolTip": "WindowsADO\\LlenarOCancelar.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:09:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\NuevoCliente.cs",
+              "RelativeDocumentMoniker": "WindowsADO\\NuevoCliente.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\NuevoCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsADO\\NuevoCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:24:01.521Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuevoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\NuevoCliente.cs",
+              "RelativeDocumentMoniker": "WindowsADO\\NuevoCliente.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\NuevoCliente.cs",
+              "RelativeToolTip": "WindowsADO\\NuevoCliente.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAhwLcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:57:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:56:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navegacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\Navegacion.cs",
+              "RelativeDocumentMoniker": "WindowsADO\\Navegacion.cs",
+              "ToolTip": "C:\\Users\\LMC-III-Alumno\\source\\repos\\ConexionBDMYSQL\\WindowsADO\\Navegacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsADO\\Navegacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:23:22.29Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
