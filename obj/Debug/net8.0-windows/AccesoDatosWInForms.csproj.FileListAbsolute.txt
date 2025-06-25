@@ -1,0 +1,69 @@
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\AccesoDatosWInForms.exe
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\AccesoDatosWInForms.deps.json
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\AccesoDatosWInForms.runtimeconfig.json
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\AccesoDatosWInForms.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\AccesoDatosWInForms.pdb
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.AssemblyReference.cache
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.Form1.resources
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.GenerateResource.cache
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.AssemblyInfoInputs.cache
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.AssemblyInfo.cs
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.CoreCompileInputs.cache
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDa.05B341A6.Up2Date
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\refint\AccesoDatosWInForms.dll
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.pdb
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\AccesoDatosWInForms.genruntimeconfig.cache
+D:\Topicos Avanzados de Programación\AccesoDatosWInForms\obj\Debug\net8.0-windows\ref\AccesoDatosWInForms.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\AccesoDatosWInForms.exe
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\AccesoDatosWInForms.deps.json
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\AccesoDatosWInForms.runtimeconfig.json
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\AccesoDatosWInForms.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\AccesoDatosWInForms.pdb
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.AssemblyReference.cache
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.Form1.resources
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.GenerateResource.cache
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.AssemblyInfoInputs.cache
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.AssemblyInfo.cs
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.csproj.CoreCompileInputs.cache
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.sourcelink.json
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDa.05B341A6.Up2Date
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\refint\AccesoDatosWInForms.dll
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.pdb
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\AccesoDatosWInForms.genruntimeconfig.cache
+C:\Users\omg02\Source\Repos\Conexi-nBDd-C-MySQL\obj\Debug\net8.0-windows\ref\AccesoDatosWInForms.dll
